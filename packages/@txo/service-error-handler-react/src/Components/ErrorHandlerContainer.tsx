@@ -75,7 +75,7 @@ export const ErrorHandlerContainer = (props: Props): JSX.Element => {
 
   const removeServiceErrorException = useCallback((context: string) => {
     if (context in contextServiceErrorExceptionMapRef.current) {
-      // NOTE: assertion is necessary from Partial<ContextServiceErrorExceptionMap> to ContextServiceErrorExceptionMap
+      // TODO: there is a bug in @txo/functional - it shouldn't return Partial object
       const nextContextServiceErrorExceptionMap = removeKeys(contextServiceErrorExceptionMapRef.current, [context]) as unknown as ContextServiceErrorExceptionMap
       setContextServiceErrorExceptionMap(nextContextServiceErrorExceptionMap)
       contextServiceErrorExceptionMapRef.current = nextContextServiceErrorExceptionMap
