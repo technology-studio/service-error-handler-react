@@ -9,7 +9,7 @@ import type { ServiceErrorException } from '@txo/service-prop'
 
 import type { ErrorHandler } from '../Model/Types'
 
-const log = new Log('@txo-peer-dep.service-react-error-handler.Api.ErrorHandlerManager')
+const log = new Log('@txo-peer-dep.service-error-handler-react.Api.ErrorHandlerManager')
 
 type ErrorListSubscription = (serviceErrorException: ServiceErrorException) => void
 

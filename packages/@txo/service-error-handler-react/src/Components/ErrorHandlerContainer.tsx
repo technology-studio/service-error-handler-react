@@ -27,7 +27,7 @@ import { Log } from '@txo/log'
 import { collectServiceErrorList } from '../Api/ServiceErrorHelper'
 import { EMPTY_ARRAY } from '../Model/Types'
 
-const log = new Log('@txo.service-react-error-handler.Components.ErrorHandlerContainer')
+const log = new Log('@txo.service-error-handler-react.Components.ErrorHandlerContainer')
 
 type Props = {
   children: React.ReactNode,
