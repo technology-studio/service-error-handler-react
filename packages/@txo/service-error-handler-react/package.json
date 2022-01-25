@@ -33,6 +33,7 @@
     "@txo/service-prop": "^2.0.2"
   },
   "peerDependencies": {
+    "@txo-peer-dep/service-error-handler-react": "^1.0.0",
     "react": "^17.0.2"
   }
 }
