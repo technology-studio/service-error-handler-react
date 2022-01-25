@@ -75,7 +75,8 @@ export const ErrorHandlerContainer = (props: Props): JSX.Element => {
 
   const removeServiceErrorException = useCallback((context: string) => {
     if (context in contextServiceErrorExceptionMapRef.current) {
-      const nextContextServiceErrorExceptionMap = removeKeys(contextServiceErrorExceptionMapRef.current, [context]) as ContextServiceErrorExceptionMap
+      // NOTE: assertion is necessary from Partial<ContextServiceErrorExceptionMap> to ContextServiceErrorExceptionMap
+      const nextContextServiceErrorExceptionMap = removeKeys(contextServiceErrorExceptionMapRef.current, [context]) as unknown as ContextServiceErrorExceptionMap
       setContextServiceErrorExceptionMap(nextContextServiceErrorExceptionMap)
       contextServiceErrorExceptionMapRef.current = nextContextServiceErrorExceptionMap
     }
