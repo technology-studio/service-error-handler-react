@@ -636,10 +636,35 @@
   resolved "https://registry.yarnpkg.com/@txo/config-manager/-/config-manager-3.0.1.tgz#cf6bc6047a67f22eeae763713d28e4c3b446132c"
   integrity sha512-L8Y8H83zn12fuhhjmwRsDo9Bp6jMiSaUQlbSVcpZHKcfESHpz+m4Mw65s35YP6sAUeFr2I5Gl9xU/Pf7S0JmAQ==
 
+"@txo/functional@^4.4.0":
+  version "4.4.0"
+  resolved "https://npm.technologystudio.sk/@txo%2ffunctional/-/functional-4.4.0.tgz#d351f32bc2e84fa1121289025f7c251b48dd8f98"
+  integrity sha512-/tjxRaByidNRHpzcXM6H5VJzkbxw77/rWZXf6Xf9buaVAP7PnkC+3GcCoQc8Ws/kjewgkpyDnoQu15A947mzhw==
+  dependencies:
+    "@txo/log" "^2.0.0"
+    utility-types "^3.10.0"
+
+"@txo/hooks-react@^2.3.2":
+  version "2.3.2"
+  resolved "https://npm.technologystudio.sk/@txo%2fhooks-react/-/hooks-react-2.3.2.tgz#74adf0333df72f6d0fe10a329a57ead8de72604c"
+  integrity sha512-elA9pHr82f0YkPGUKC7QLumie8BUeXXS/ifr46U0cBKNG3tVgb83t8qX73eBWX1YsgHFazvjkC5y4MDuXCpwGQ==
+  dependencies:
+    "@txo/functional" "^4.4.0"
+
 "@txo/log-console@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@txo/log-console/-/log-console-3.0.0.tgz#56506a8c6afea9109301ff96520c43815814022d"
   integrity sha512-Dl7dnPMUXRr1JSBysUmzT9/RjMm9FWJdtZ9CXVnh9K4qwpT4fnjDV+GWiHHWAqob47XcE7N98M8rShGmpsukqg==
+
+"@txo/log@^2.0.0":
+  version "2.0.0"
+  resolved "https://npm.technologystudio.sk/@txo%2flog/-/log-2.0.0.tgz#e585a162dc6b974eaaafeff565ef2d2dca790d0b"
+  integrity sha512-g56HqsXcSj35HAT4YtgdamROF2Xuq91z00WdblVmOXqpiNkhv5jbXKjykxVLCDq6n3GByG0TVgIvy0mA2YkVzQ==
+
+"@txo/service-prop@^2.0.2":
+  version "2.0.2"
+  resolved "https://npm.technologystudio.sk/@txo%2fservice-prop/-/service-prop-2.0.2.tgz#4fcba50a2ce9bde0f7b641922dae3d9577a28d7c"
+  integrity sha512-srAlasqRRf2uJCgAC/I1xawCPU97AGsGn+9Ze4DWBRxc0BxgJtRCq6caMNQh7kJLGgTSp4P5LYZTM6FKcv6NCg==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.14":
   version "7.1.18"
@@ -5682,6 +5707,11 @@ util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
+
+utility-types@^3.10.0:
+  version "3.10.0"
+  resolved "https://npm.technologystudio.sk/utility-types/-/utility-types-3.10.0.tgz#ea4148f9a741015f05ed74fd615e1d20e6bed82b"
+  integrity sha512-O11mqxmi7wMKCo6HKFt5AhO4BwY3VV68YU07tgxfz8zJTIxr4BpsezN49Ffwy9j3ZpwwJp4fkRwjRzq3uWE6Rg==
 
 uuid@^3.3.2:
   version "3.4.0"
