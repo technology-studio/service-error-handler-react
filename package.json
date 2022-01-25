@@ -25,8 +25,8 @@
     "print-txo-packages": "yarn list 2> /dev/null|grep @txo|sed 's/.*\\(@txo[^@]*\\)@^*\\([^ ]*\\).*/\\1@\\2/g'|sort|uniq",
     "sanity": "yarn lint && yarn build && tsc --noEmit && yarn test && yarn compare-boilerplate-version && yarn outdated && echo 'success'",
     "update-boilerplate-version": "./scripts/update-boilerplate-version.sh",
-    "wd": "yarn workspace @txo/test-boilerplate-private-typescript",
-    "wpd": "yarn workspace @txo-peer-dep/test-boilerplate-private-typescript"
+    "wd": "yarn workspace @txo/service-error-handler-react",
+    "wpd": "yarn workspace @txo-peer-dep/service-error-handler-react"
   },
   "workspaces": [
     "packages/@txo/*",
