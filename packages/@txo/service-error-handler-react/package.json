@@ -1,6 +1,6 @@
 {
   "name": "@txo/service-error-handler-react",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Technology Studio - Service error handler react",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
