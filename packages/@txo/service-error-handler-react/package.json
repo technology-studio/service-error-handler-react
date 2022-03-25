@@ -27,10 +27,10 @@
     "prepare": "yarn build"
   },
   "dependencies": {
-    "@txo/functional": "^4.4.0",
+    "@txo/functional": "^4.5.0",
     "@txo/hooks-react": "^2.3.2",
     "@txo/log": "^2.0.0",
-    "@txo/service-prop": "^2.0.2"
+    "@txo/service-prop": "^2.1.0"
   },
   "peerDependencies": {
     "@txo-peer-dep/service-error-handler-react": "^1.0.0",
