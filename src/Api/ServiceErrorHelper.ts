@@ -4,9 +4,11 @@
  * @Copyright: Technology Studio
 **/
 
-import {
+import type {
   ServiceError,
   ServiceErrorException,
+} from '@txo/service-prop'
+import {
   ServiceErrorKey,
 } from '@txo/service-prop'
 import type { ContextServiceErrorExceptionMap } from '@txo-peer-dep/service-error-handler-react'
