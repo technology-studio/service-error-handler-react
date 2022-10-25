@@ -15,10 +15,12 @@ import {
   removeKeys,
 } from '@txo/functional'
 import { useLatest } from '@txo/hooks-react'
-import {
+import type {
   ContextServiceErrorExceptionMap,
   ErrorHandler,
   ErrorHandlerAttributes,
+} from '@txo-peer-dep/service-error-handler-react'
+import {
   ErrorHandlerContext,
   errorHandlerManager,
 } from '@txo-peer-dep/service-error-handler-react'
