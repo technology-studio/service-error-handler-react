@@ -1311,7 +1311,7 @@
     "@txo/log" "^2.0.1"
     utility-types "^3.10.0"
 
-"@txo/hooks-react@^2.3.3":
+"@txo/hooks-react@^2.3.4":
   version "2.3.4"
   resolved "https://registry.yarnpkg.com/@txo/hooks-react/-/hooks-react-2.3.4.tgz#22a3b9985ae129c0c210dcff90c15cf692dec8bd"
   integrity sha512-2+kGecdhPBu8nx+si7TW9Xny5bwtfsG7COhNG3Sg+MW+Qu4O5xgCnp+c5t/oqQltaKuBPRRpFQP9tdjZEA0tvA==
