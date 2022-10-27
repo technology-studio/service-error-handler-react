@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.3...v1.2.4) (2022-10-27)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/service-prop to ^2.2.2 ([870ac78](https://github.com/technology-studio/service-error-handler-react/commit/870ac78f653609fabd798983b633222d6a413def))
+
 ## [1.2.3](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.2...v1.2.3) (2022-10-27)
 
 
