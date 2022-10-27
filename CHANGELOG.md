@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.2...v1.2.3) (2022-10-27)
+
+
+### Bug fixes
+
+* fix package.json ([#19](https://github.com/technology-studio/service-error-handler-react/issues/19)) ([8cc07ff](https://github.com/technology-studio/service-error-handler-react/commit/8cc07ffd425cc961db2c96bc29b2a9a75200f826))
+
 ## [1.2.2](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.1...v1.2.2) (2022-10-26)
 
 
