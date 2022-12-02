@@ -52,7 +52,7 @@
     "@txo-peer-dep/service-error-handler-react": "^1.2.2",
     "@txo/log-console": "^3.0.0",
     "@types/jest": "^29.2.3",
-    "@types/react": "^18.0.25",
+    "@types/react": "^18.0.26",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
     "@typescript-eslint/parser": "^5.45.0",
     "commitizen": "^4.2.5",
