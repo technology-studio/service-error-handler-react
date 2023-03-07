@@ -43,7 +43,7 @@ const nextErrorHandlerFactory = (
 ): NextErrorHandlerFactory => {
   let index = 0
   return () => (
-    errorHandlerSequence && errorHandlerSequence.length > index
+    errorHandlerSequence != null && errorHandlerSequence.length > index
       ? errorHandlerSequence[index++]
       : emptyErrorHandler
   )
@@ -51,7 +51,7 @@ const nextErrorHandlerFactory = (
 
 export const handleNext = (attributes: ErrorHandlerAttributes): React.ReactNode => {
   const nextErrorHandler = attributes.next?.()
-  return nextErrorHandler
+  return (nextErrorHandler != null)
     ? nextErrorHandler(attributes)
     : attributes.children
 }
