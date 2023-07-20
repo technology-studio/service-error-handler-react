@@ -29,5 +29,5 @@ export const containsError = (contextServiceErrorExceptionMap: ContextServiceErr
 )
 
 export const containsNonNetworkError = (exception: ServiceErrorException): boolean => (
-  exception.serviceErrorList.some(error => error.key !== ServiceErrorKey.NETWORK_ERROR)
+  exception.serviceErrorList.some(error => error.key as ServiceErrorKey !== ServiceErrorKey.NETWORK_ERROR)
 )
