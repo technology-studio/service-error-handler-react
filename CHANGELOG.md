@@ -1,3 +1,10 @@
+## [1.2.13](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.12...v1.2.13) (2023-07-21)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/log to ^2.0.4 ([ce8cab4](https://github.com/technology-studio/service-error-handler-react/commit/ce8cab4f2bd04b32efd49445e85632456a2173ca))
+
 ## [1.2.12](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.11...v1.2.12) (2023-07-21)
 
 
