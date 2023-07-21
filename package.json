@@ -37,7 +37,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@txo/functional": "^4.6.2",
+    "@txo/functional": "^4.6.3",
     "@txo/hooks-react": "^2.3.6",
     "@txo/log": "^2.0.1",
     "@txo/service-prop": "^2.2.2"
