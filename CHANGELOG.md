@@ -1,3 +1,10 @@
+## [1.2.22](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.21...v1.2.22) (2023-07-22)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/hooks-react to ^2.3.10 ([e35649a](https://github.com/technology-studio/service-error-handler-react/commit/e35649a7139dc5e76c7e840339a8207d0df0c821))
+
 ## [1.2.21](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.20...v1.2.21) (2023-07-22)
 
 
