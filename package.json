@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@txo/functional": "^4.6.9",
-    "@txo/hooks-react": "^2.3.12",
+    "@txo/hooks-react": "^2.3.13",
     "@txo/log": "^2.0.6",
     "@txo/service-prop": "^2.2.2"
   },
