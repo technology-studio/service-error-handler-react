@@ -1,3 +1,10 @@
+## [1.2.30](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.29...v1.2.30) (2023-07-23)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo-peer-dep/service-error-handler-react to ^1.2.13 ([f6fff64](https://github.com/technology-studio/service-error-handler-react/commit/f6fff647a3744874099a2eae45121ffb869f4e21))
+
 ## [1.2.29](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.28...v1.2.29) (2023-07-23)
 
 
