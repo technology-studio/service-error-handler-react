@@ -1500,13 +1500,13 @@
   dependencies:
     "@txo/config-manager" "^3.1.0"
 
-"@txo-peer-dep/service-error-handler-react@^1.2.13":
-  version "1.2.13"
-  resolved "https://registry.yarnpkg.com/@txo-peer-dep/service-error-handler-react/-/service-error-handler-react-1.2.13.tgz#289ecc36b003192145d81988beb5c584f9ee99be"
-  integrity sha512-eF64zc0tpXUIyATCEi1B+KBiplBN7mwVCLNuAfgwKTafcjfDU953b+V+KlOPzTSuEy0lnqAfhJNLs4jLYjrh3w==
+"@txo-peer-dep/service-error-handler-react@^1.2.15":
+  version "1.2.15"
+  resolved "https://registry.yarnpkg.com/@txo-peer-dep/service-error-handler-react/-/service-error-handler-react-1.2.15.tgz#d68684673228240f53e99d4a355249665c6ab8a4"
+  integrity sha512-pk2PPYSFdUPoOtX0aFZn5CH6eM+Vf9ttP21DvPlU8dikD1roeysFVkPIC0Qqaq1/K36U2UX8QbLcQgIt/6wdRg==
   dependencies:
-    "@txo/log" "^2.0.9"
-    "@txo/service-prop" "^2.2.8"
+    "@txo/log" "^2.0.10"
+    "@txo/service-prop" "^2.2.9"
 
 "@txo/config-manager@^3.1.0":
   version "3.1.0"
@@ -1663,12 +1663,12 @@
   resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.2.tgz#42dfd1088f662c92583b3521b45f29dd53b476ce"
   integrity sha512-E2RNlFgrLX4A5/ZDlvOABZPtNvjxWY4XG0SKHZrQ1UUWmC0QGZINQlq1+oKkRb4SZwgNBqyhKRKozO7VuurvwQ==
 
-"@txo/service-prop@^2.2.8":
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.8.tgz#6f513117dd73ae38f3ab5dbaaad6b5d48cace9ee"
-  integrity sha512-RLjNQkz4biTQV0zlG3AyNZHQ/LTvAjSK1q4svgbuRp8ovJXCdCZVBblWNB6vc4vAajSgknjXwITaC960mHaOaQ==
+"@txo/service-prop@^2.2.9":
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.10.tgz#2725cef5c7c47b434777901cf0a5539302df2f5c"
+  integrity sha512-o6YNIYWY7gLbMDucjQOLwLV3KLUJG40iMTv+6hnCdX7z64APlaPIHTrcd+SVeOZnZ27zvgorKx6IUDu/N8nXlA==
   dependencies:
-    "@txo/functional" "^4.6.8"
+    "@txo/functional" "^4.6.10"
 
 "@types/babel__core@^7.1.14":
   version "7.1.19"
