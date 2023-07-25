@@ -1678,6 +1678,13 @@
   dependencies:
     "@txo/functional" "^4.6.10"
 
+"@txo/service-prop@^2.2.11":
+  version "2.2.11"
+  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.11.tgz#97e4451e41ea272d144560366a93662246ff9d3a"
+  integrity sha512-FsFhUhr13kqKX4OWMd+wA0dzsUof5bsBUa+xL2pAQFFGd0EkmWizwsscakWlLsz7RRvLhPW01xH6uYFzUYPwuA==
+  dependencies:
+    "@txo/functional" "^4.6.11"
+
 "@types/babel__core@^7.1.14":
   version "7.1.19"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.19.tgz#7b497495b7d1b4812bdb9d02804d0576f43ee460"
