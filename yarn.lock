@@ -1509,6 +1509,14 @@
     "@txo/log" "^2.0.12"
     utility-types "^3.10.0"
 
+"@txo/functional@^4.6.12":
+  version "4.6.12"
+  resolved "https://registry.yarnpkg.com/@txo/functional/-/functional-4.6.12.tgz#0fb64b5840ad8edc8f05f7303f374f963d76ce15"
+  integrity sha512-Z21aUxhmqL9t4M+lH2tT59s+SxhtYi3uSUj4akKQTUFyZ2jcOYil8B6IF5H4g4QM2I4B/Ic9KuRCTYWsYDi4Wg==
+  dependencies:
+    "@txo/log" "^2.0.12"
+    utility-types "^3.10.0"
+
 "@txo/hooks-react@^2.3.15":
   version "2.3.15"
   resolved "https://registry.yarnpkg.com/@txo/hooks-react/-/hooks-react-2.3.15.tgz#4fe023f6d7af224f36335f5388ad4e05d7d399d2"
