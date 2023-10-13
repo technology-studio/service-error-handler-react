@@ -1456,7 +1456,7 @@
   dependencies:
     "@txo/config-manager" "^3.1.0"
 
-"@txo-peer-dep/service-error-handler-react@^1.2.23":
+"@txo-peer-dep/service-error-handler-react@^1.2.20":
   version "1.2.23"
   resolved "https://registry.yarnpkg.com/@txo-peer-dep/service-error-handler-react/-/service-error-handler-react-1.2.23.tgz#469f1983dc66a590c2b10735a141d092184fc9fc"
   integrity sha512-e2wS2RFkcVh1Kh749dJYaIAVb9ciTPZ0fthieGE8bBm26z1jkKnwhj11IZ6fuTioqemBEwi+fbiVIugES6/XgQ==
@@ -1513,10 +1513,10 @@
     semantic-release "^22.0.5"
     semantic-release-slack-bot "^4.0.2"
 
-"@txo/service-prop@^2.2.12":
-  version "2.2.12"
-  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.12.tgz#d8ee194bb70573d2f39060744470474a26dd84d2"
-  integrity sha512-31QQWd9DlQzH5+FXw+d0WNK200YAVhlusrk6M1ktadNiCuX75mve7zR8ItEGSE7uqw75l/0uBsiECypcBNrWhQ==
+"@txo/service-prop@^2.2.14":
+  version "2.2.14"
+  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.14.tgz#d6f91ab70c6aed816f519b1b96a7a26625291521"
+  integrity sha512-A+xGhYRcBBlbVzyPCHj6AD5zNQfyGjKfuacHud7aCfER62f1COzsvICIO7+LD2Lony2btTFE+a+gTK8Boowhew==
   dependencies:
     "@txo/functional" "^4.6.15"
 
@@ -1647,7 +1647,7 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
-"@types/react@^18.2.28":
+"@types/react@^18.2.24":
   version "18.2.28"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.28.tgz#86877465c0fcf751659a36c769ecedfcfacee332"
   integrity sha512-ad4aa/RaaJS3hyGz0BGegdnSRXQBkd1CCYDCdNjBPg90UUpLgo+WlJqb9fMYUxtehmzF3PJaTWqRZjko6BRzBg==
@@ -1693,7 +1693,7 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^6.7.5":
+"@typescript-eslint/eslint-plugin@^6.7.2":
   version "6.7.5"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-6.7.5.tgz#f4024b9f63593d0c2b5bd6e4ca027e6f30934d4f"
   integrity sha512-JhtAwTRhOUcP96D0Y6KYnwig/MRQbOoLGXTON2+LlyB/N35SP9j1boai2zzwXb7ypKELXMx3DVk9UTaEq1vHEw==
@@ -1721,7 +1721,7 @@
     "@typescript-eslint/visitor-keys" "6.4.1"
     debug "^4.3.4"
 
-"@typescript-eslint/parser@^6.7.5":
+"@typescript-eslint/parser@^6.7.2":
   version "6.7.5"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-6.7.5.tgz#8d7ca3d1fbd9d5a58cc4d30b2aa797a760137886"
   integrity sha512-bIZVSGx2UME/lmhLcjdVc7ePBwn7CLqKarUBL4me1C5feOd663liTGjMBGVcGr+BhnSLeP4SgwdvNnnkbIdkCw==
