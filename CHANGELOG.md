@@ -1,3 +1,38 @@
+## [1.2.53](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.52...v1.2.53) (2023-10-03)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/service-prop to ^2.2.14 ([e4841e9](https://github.com/technology-studio/service-error-handler-react/commit/e4841e983b28a420059099514b848d241a4acccd))
+
+## [1.2.52](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.51...v1.2.52) (2023-10-03)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/log to ^2.0.13 ([34626a7](https://github.com/technology-studio/service-error-handler-react/commit/34626a7afb4e7e580631760f334e138a11f6e84d))
+
+## [1.2.51](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.50...v1.2.51) (2023-10-02)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/hooks-react to ^2.3.18 ([22f1735](https://github.com/technology-studio/service-error-handler-react/commit/22f1735d0652934ef6d057a1646198c86e7467c5))
+
+## [1.2.50](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.49...v1.2.50) (2023-10-02)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/functional to ^4.6.15 ([62022f5](https://github.com/technology-studio/service-error-handler-react/commit/62022f5d78b2e4622724149fc146581a1d29fb8b))
+
+## [1.2.49](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.48...v1.2.49) (2023-10-02)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo-peer-dep/service-error-handler-react to ^1.2.23 ([eed4f39](https://github.com/technology-studio/service-error-handler-react/commit/eed4f39c3530fb8665e725c132584d935c301507))
+
 ## [1.2.48](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.47...v1.2.48) (2023-08-11)
 
 

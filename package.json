@@ -1,6 +1,6 @@
 {
   "name": "@txo/service-error-handler-react",
-  "version": "1.2.48",
+  "version": "1.2.53",
   "description": "Technology Studio - Service error handler react",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -37,13 +37,13 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@txo/functional": "^4.6.12",
-    "@txo/hooks-react": "^2.3.16",
-    "@txo/log": "^2.0.12",
-    "@txo/service-prop": "^2.2.12"
+    "@txo/functional": "^4.6.15",
+    "@txo/hooks-react": "^2.3.18",
+    "@txo/log": "^2.0.13",
+    "@txo/service-prop": "^2.2.14"
   },
   "peerDependencies": {
-    "@txo-peer-dep/service-error-handler-react": "^1.2.20",
+    "@txo-peer-dep/service-error-handler-react": "^1.2.23",
     "react": "^18.2.0"
   },
   "devDependencies": {
@@ -57,14 +57,14 @@
     "@typescript-eslint/eslint-plugin": "^6.7.2",
     "@typescript-eslint/parser": "^6.7.2",
     "concurrently": "^8.2.1",
-    "eslint": "^8.49.0",
-    "eslint-config-txo-typescript-react": "^1.2.40",
+    "eslint": "^8.51.0",
+    "eslint-config-txo-typescript-react": "^1.2.53",
     "eslint-formatter-pretty": "^5.0.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.28.1",
-    "eslint-plugin-jest": "^27.4.0",
+    "eslint-plugin-jest": "^27.4.2",
     "eslint-plugin-jsx-a11y": "^6.7.1",
-    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-n": "^16.2.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
