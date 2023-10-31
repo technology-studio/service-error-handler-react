@@ -51,7 +51,7 @@
     "@txo-peer-dep/service-error-handler-react": "^1.2.23",
     "@txo/commitlint": "^1.0.5",
     "@txo/log-console": "^3.0.0",
-    "@txo/semantic-release": "^1.0.0",
+    "@txo/semantic-release": "^1.0.1",
     "@types/jest": "^29.5.7",
     "@types/react": "^18.2.33",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
