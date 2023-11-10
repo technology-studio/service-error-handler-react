@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.53...v1.3.0) (2023-11-10)
+
+
+### Features
+
+* migrate to flat eslint config ([#489](https://github.com/technology-studio/service-error-handler-react/issues/489)) ([b425e70](https://github.com/technology-studio/service-error-handler-react/commit/b425e708e8a3d8ee70498976a71f6d9bfcbb6211))
+
 ## [1.2.53](https://github.com/technology-studio/service-error-handler-react/compare/v1.2.52...v1.2.53) (2023-10-03)
 
 
