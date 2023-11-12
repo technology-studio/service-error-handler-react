@@ -43,12 +43,12 @@
     "@txo/service-prop": "^2.2.15"
   },
   "peerDependencies": {
-    "@txo-peer-dep/service-error-handler-react": "^1.2.25",
+    "@txo-peer-dep/service-error-handler-react": "^1.2.26",
     "react": "^18.2.0"
   },
   "devDependencies": {
     "@txo-peer-dep/log": "^4.0.3",
-    "@txo-peer-dep/service-error-handler-react": "^1.2.25",
+    "@txo-peer-dep/service-error-handler-react": "^1.2.26",
     "@txo/commitlint": "^1.0.5",
     "@txo/log-console": "^3.0.0",
     "@txo/semantic-release": "^1.0.2",
