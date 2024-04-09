@@ -1,3 +1,10 @@
+## [1.3.9](https://github.com/technology-studio/service-error-handler-react/compare/v1.3.8...v1.3.9) (2024-04-09)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/functional to ^4.6.18 ([0d80b51](https://github.com/technology-studio/service-error-handler-react/commit/0d80b51f2eda06e0307b1f9a0155ed184a7ef368))
+
 ## [1.3.8](https://github.com/technology-studio/service-error-handler-react/compare/v1.3.7...v1.3.8) (2023-11-12)
 
 
