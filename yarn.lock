@@ -1334,13 +1334,13 @@
   dependencies:
     "@txo/config-manager" "^3.2.0"
 
-"@txo-peer-dep/service-error-handler-react@^1.2.26":
-  version "1.2.26"
-  resolved "https://registry.yarnpkg.com/@txo-peer-dep/service-error-handler-react/-/service-error-handler-react-1.2.26.tgz#93a379db1e57b8f87d2dc81fafab86f720c6bc03"
-  integrity sha512-JldWOIke5na81s/iybvalE8rm61d2gcy6CNx+f18u46tqG4CriMVRTAFK63LYivznHV33Dd0/tv0EcMzZOc92g==
+"@txo-peer-dep/service-error-handler-react@^1.2.28":
+  version "1.2.28"
+  resolved "https://registry.yarnpkg.com/@txo-peer-dep/service-error-handler-react/-/service-error-handler-react-1.2.28.tgz#ab0cc0fa77cc7fce8ced1ac6a1a8e33c069457db"
+  integrity sha512-nGmaIEITDxPTpgzKpOVt+67X5UDMwDSz7IGLRSad0Si+SlMcdCFQ8TSEQaYWFI5qtjWpKk1l9ojhpzGqKovFRg==
   dependencies:
-    "@txo/log" "^2.0.14"
-    "@txo/service-prop" "^2.2.16"
+    "@txo/log" "^2.0.16"
+    "@txo/service-prop" "^2.2.17"
 
 "@txo/commitlint@^1.0.14":
   version "1.0.14"
@@ -1391,12 +1391,12 @@
     semantic-release "^22.0.12"
     semantic-release-slack-bot "^4.0.2"
 
-"@txo/service-prop@^2.2.16":
-  version "2.2.16"
-  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.16.tgz#e18264bfd19583faf717f2425f92259f75ee7576"
-  integrity sha512-51R0uGJvp3yttxQ43S739x8TNL0JB4MxmaRHv3IpXgXS5DFsyKlJH8riOuQbH8Ly547ib85Abbu4BS6SmSp5ag==
+"@txo/service-prop@^2.2.16", "@txo/service-prop@^2.2.17":
+  version "2.2.17"
+  resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.17.tgz#21b8ee535189004d8a1ffdfe9f9c61ba12f8a34d"
+  integrity sha512-P8gcv3XVZmJqwIW+BWF6ODq3bC/nEbORlsZfWVRme6w8IXVevSxVdfj/cJpYG+cExXhkmgTqJTSPvaYmcL4AdA==
   dependencies:
-    "@txo/functional" "^4.6.17"
+    "@txo/functional" "^4.6.18"
 
 "@txo/tsconfig@^1.1.1":
   version "1.1.1"
