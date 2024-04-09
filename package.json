@@ -47,7 +47,7 @@
     "react": "^18.2.0"
   },
   "devDependencies": {
-    "@txo-peer-dep/log": "^4.0.3",
+    "@txo-peer-dep/log": "^4.0.4",
     "@txo-peer-dep/service-error-handler-react": "^1.2.26",
     "@txo/commitlint": "^1.0.14",
     "@txo/log-console": "^3.0.0",
