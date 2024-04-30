@@ -1,3 +1,11 @@
+## [1.3.16](https://github.com/technology-studio/service-error-handler-react/compare/v1.3.15...v1.3.16) (2024-04-30)
+
+
+### Bug fixes
+
+* **deps:** update react packages to ^18.3.0 ([03d4ee3](https://github.com/technology-studio/service-error-handler-react/commit/03d4ee3ca4eb0bbbcdb7a3d616920a1a9d7080f2))
+* **deps:** update react packages to ^18.3.1 ([f5e5dfb](https://github.com/technology-studio/service-error-handler-react/commit/f5e5dfbd91713fe0d9e19cbfcca4241f5f515488))
+
 ## [1.3.15](https://github.com/technology-studio/service-error-handler-react/compare/v1.3.14...v1.3.15) (2024-04-11)
 
 
