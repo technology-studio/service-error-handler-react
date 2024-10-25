@@ -7,6 +7,3 @@
 export {
   containsNonNetworkError,
 } from './Api/ServiceErrorHelper'
-export {
-  ErrorHandlerContainer,
-} from './Components/ErrorHandlerContainer'
