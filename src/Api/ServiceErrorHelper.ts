@@ -5,29 +5,12 @@
 **/
 
 import type {
-  ServiceError,
-  ServiceErrorException,
+  ServiceOperationError,
 } from '@txo/service-prop'
 import {
   ServiceErrorKey,
 } from '@txo/service-prop'
-import type { ContextServiceErrorExceptionMap } from '@txo-peer-dep/service-error-handler-react'
 
-export const collectServiceErrorList = (contextServiceErrorExceptionMap: ContextServiceErrorExceptionMap): ServiceError[] => (
-  Object.keys(contextServiceErrorExceptionMap).reduce<ServiceError[]>(
-    (serviceErrorList, context) => {
-      const exception = contextServiceErrorExceptionMap[context]
-      serviceErrorList.push(...exception.serviceErrorList)
-      return serviceErrorList
-    },
-    [],
-  )
-)
-
-export const containsError = (contextServiceErrorExceptionMap: ContextServiceErrorExceptionMap): boolean => (
-  Object.keys(contextServiceErrorExceptionMap).length > 0
-)
-
-export const containsNonNetworkError = (exception: ServiceErrorException): boolean => (
-  exception.serviceErrorList.some(error => error.key as ServiceErrorKey !== ServiceErrorKey.NETWORK_ERROR)
+export const containsNonNetworkError = (serviceOperationError: ServiceOperationError): boolean => (
+  serviceOperationError.serviceErrorList.some(error => error.key as ServiceErrorKey !== ServiceErrorKey.NETWORK_ERROR)
 )

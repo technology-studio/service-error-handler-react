@@ -5,11 +5,8 @@
 **/
 
 export {
-  collectServiceErrorList,
-  containsError,
   containsNonNetworkError,
 } from './Api/ServiceErrorHelper'
 export {
-  handleNext,
   ErrorHandlerContainer,
 } from './Components/ErrorHandlerContainer'
