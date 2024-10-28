@@ -42,7 +42,7 @@
     "@txo/functional": "^4.6.19",
     "@txo/hooks-react": "^2.3.21",
     "@txo/log": "^2.0.16",
-    "@txo/service-prop": "^2.2.18"
+    "@txo/service-prop": "^2.2.20"
   },
   "peerDependencies": {
     "@txo-peer-dep/service-error-handler-react": "^1.2.29",
